@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fca927b-724d-4a85-bda4-5cc1ed8e1dbd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uLP3OB77mz7AjoCZ7vXW2QZEjy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LibrettoMarta">
+    <configuration name="ConsumerProducerMulti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerProducerMulti" />
+      <module name="ConsumerProducerMulti" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibrettoMarta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LibrettoMarta" />
+      <module name="ConsumerProducerMulti" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RevIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevIterator" />
+      <module name="ConsumerProducerMulti" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Try" />
+      <module name="ConsumerProducerMulti" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibrettoMarta" />
+        <item itemvalue="Application.Try" />
+        <item itemvalue="Application.ConsumerProducerMulti" />
+        <item itemvalue="Application.RevIterator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fca927b-724d-4a85-bda4-5cc1ed8e1dbd" name="Default Changelist" comment="" />
+      <created>1624441695614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624441695614</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1624723943027">
+      <screen x="0" y="25" width="1680" height="973" />
+    </state>
+    <state x="653" y="223" key="#com.intellij.ide.util.MemberChooser/0.25.1680.973@0.25.1680.973" timestamp="1624723943027" />
+    <state x="628" y="262" key="FileChooserDialogImpl" timestamp="1629712082754">
+      <screen x="0" y="25" width="1680" height="974" />
+    </state>
+    <state x="628" y="262" key="FileChooserDialogImpl/0.25.1680.974@0.25.1680.974" timestamp="1629712082754" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom" timestamp="1628246166013">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.25.1680.972@0.25.1680.972" timestamp="1625240734600" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.25.1680.973@0.25.1680.973" timestamp="1625239519404" />
+    <state width="1638" height="255" key="GridCell.Tab.0.bottom/0.25.1680.976@0.25.1680.976" timestamp="1628246166013" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center" timestamp="1628246166012">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.center/0.25.1680.972@0.25.1680.972" timestamp="1625240734600" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/0.25.1680.973@0.25.1680.973" timestamp="1625239519403" />
+    <state width="1638" height="255" key="GridCell.Tab.0.center/0.25.1680.976@0.25.1680.976" timestamp="1628246166012" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left" timestamp="1628246166012">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.left/0.25.1680.972@0.25.1680.972" timestamp="1625240734599" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/0.25.1680.973@0.25.1680.973" timestamp="1625239519403" />
+    <state width="1638" height="255" key="GridCell.Tab.0.left/0.25.1680.976@0.25.1680.976" timestamp="1628246166012" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right" timestamp="1628246166013">
+      <screen x="0" y="25" width="1680" height="976" />
+    </state>
+    <state width="1638" height="255" key="GridCell.Tab.0.right/0.25.1680.972@0.25.1680.972" timestamp="1625240734600" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/0.25.1680.973@0.25.1680.973" timestamp="1625239519404" />
+    <state width="1638" height="255" key="GridCell.Tab.0.right/0.25.1680.976@0.25.1680.976" timestamp="1628246166013" />
+    <state x="428" y="250" key="IDE.errors.dialog" timestamp="1624715461101">
+      <screen x="0" y="25" width="1680" height="973" />
+    </state>
+    <state x="428" y="250" key="IDE.errors.dialog/0.25.1680.973@0.25.1680.973" timestamp="1624715461101" />
+    <state x="510" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1629712046503">
+      <screen x="0" y="25" width="1680" height="974" />
+    </state>
+    <state x="510" y="332" key="com.intellij.ide.util.TipDialog/0.25.1680.972@0.25.1680.972" timestamp="1628082478230" />
+    <state x="510" y="332" key="com.intellij.ide.util.TipDialog/0.25.1680.973@0.25.1680.973" timestamp="1625239116332" />
+    <state x="510" y="332" key="com.intellij.ide.util.TipDialog/0.25.1680.974@0.25.1680.974" timestamp="1629712046503" />
+    <state x="510" y="333" key="com.intellij.ide.util.TipDialog/0.25.1680.976@0.25.1680.976" timestamp="1628589499164" />
+    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1624714989851">
+      <screen x="0" y="25" width="1680" height="973" />
+    </state>
+    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup/0.25.1680.973@0.25.1680.973" timestamp="1624714989851" />
+  </component>
+</project>
